@@ -1,0 +1,16 @@
+PODS:
+  - Commander (0.3.0)
+  - CSwiftV (0.0.3)
+  - Swiftline (0.1.0)
+
+DEPENDENCIES:
+  - Commander
+  - CSwiftV
+  - Swiftline
+
+SPEC CHECKSUMS:
+  Commander: 59428fb87ec13df77ac7aeb8e543e3a756de8277
+  CSwiftV: 93e3d4e1501f2a9b1eac3ae51d53a5edf41beb5b
+  Swiftline: d2ec30d1e752c2b1237ab3c0b334c27cd9c2257b
+
+COCOAPODS: 0.39.0
